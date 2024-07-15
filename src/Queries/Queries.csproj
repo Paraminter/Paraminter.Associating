@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>Paraminter.Associators.Queries</AssemblyName>
+
+        <PackageId>Paraminter.Associators.Queries</PackageId>
+        <Description>Defines queries related to Paraminter associators.</Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Paraminter.Queries" />
+    </ItemGroup>
+
+</Project>
