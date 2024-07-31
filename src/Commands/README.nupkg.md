@@ -1,5 +1,5 @@
-# Paraminter.Associators.Queries
+# Paraminter.Associators.Commands
 
-Defines queries related to `Paraminter` associators.
+Defines commands related to `Paraminter` associators.
 
 See [GitHub](https://github.com/Paraminter/Paraminter.Associators) for more information.
