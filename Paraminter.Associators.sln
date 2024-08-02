@@ -15,8 +15,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3EC78B69-B57
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commands", "src\Commands\Commands.csproj", "{316E63B8-9497-44F3-9519-A39CA30B14E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queries", "src\Queries\Queries.csproj", "{1123EC75-EB50-4582-86B9-765D1D2FBC46}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,16 +25,11 @@ Global
 		{316E63B8-9497-44F3-9519-A39CA30B14E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{316E63B8-9497-44F3-9519-A39CA30B14E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{316E63B8-9497-44F3-9519-A39CA30B14E9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1123EC75-EB50-4582-86B9-765D1D2FBC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1123EC75-EB50-4582-86B9-765D1D2FBC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1123EC75-EB50-4582-86B9-765D1D2FBC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1123EC75-EB50-4582-86B9-765D1D2FBC46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{316E63B8-9497-44F3-9519-A39CA30B14E9} = {3EC78B69-B578-446B-9778-0D07600267E5}
-		{1123EC75-EB50-4582-86B9-765D1D2FBC46} = {3EC78B69-B578-446B-9778-0D07600267E5}
 	EndGlobalSection
 EndGlobal
