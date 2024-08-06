@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>Paraminter.Associators.Models</AssemblyName>
+
+        <RootNamespace>Paraminter.Associations.Models</RootNamespace>
+
+        <PackageId>Paraminter.Associators.Models</PackageId>
+        <Description>Defines models for Paraminter associators.</Description>
+    </PropertyGroup>
+
+</Project>
