@@ -6,7 +6,7 @@
         <RootNamespace>Paraminter.Associations.Commands</RootNamespace>
 
         <PackageId>Paraminter.Associators.Commands</PackageId>
-        <Description>Defines commands related to Paraminter associators.</Description>
+        <Description>Defines commands for Paraminter associators.</Description>
     </PropertyGroup>
 
     <ItemGroup>
