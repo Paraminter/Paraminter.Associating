@@ -11,6 +11,8 @@
 
     <ItemGroup>
         <PackageReference Include="Paraminter.Commands" />
+
+        <ProjectReference Include="$(SolutionDir)\src\Models\Models.csproj" />
     </ItemGroup>
 
 </Project>
