@@ -1,5 +1,5 @@
-# Paraminter.Associators.Models
+# Paraminter.Models
 
-Defines models for `Paraminter` associators.
+Defines core `Paraminter` models.
 
-See [GitHub](https://github.com/Paraminter/Paraminter.Associators) for more information.
+See [GitHub](https://github.com/Paraminter/Paraminter) for more information.

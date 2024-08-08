@@ -1,7 +1,7 @@
-﻿namespace Paraminter.Associators.Commands;
+﻿namespace Paraminter.Commands;
 
-using Paraminter.Associators.Models;
 using Paraminter.Cqs;
+using Paraminter.Models;
 
 /// <summary>Represents a command to associate arguments with parameters.</summary>
 /// <typeparam name="TData">The type representing the data used to associate arguments with parameters.</typeparam>
