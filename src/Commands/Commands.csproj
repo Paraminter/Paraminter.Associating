@@ -1,12 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <AssemblyName>Paraminter.Associators.Commands</AssemblyName>
+        <AssemblyName>Paraminter.Commands</AssemblyName>
 
-        <RootNamespace>Paraminter.Associations.Commands</RootNamespace>
+        <RootNamespace>Paraminter.Commands</RootNamespace>
 
-        <PackageId>Paraminter.Associators.Commands</PackageId>
-        <Description>Defines commands for Paraminter associators.</Description>
+        <PackageId>Paraminter.Commands</PackageId>
+        <Description>Defines core Paraminter commands.</Description>
     </PropertyGroup>
 
     <ItemGroup>
