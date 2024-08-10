@@ -7,7 +7,7 @@ using Paraminter.Parameters.Models;
 /// <summary>Represents a command to associate an argument and a parameter.</summary>
 /// <typeparam name="TParameter">The type representing the parameters.</typeparam>
 /// <typeparam name="TArgumentData">The type representing data about the arguments.</typeparam>
-public interface IAssociateArgumentCommand<out TParameter, out TArgumentData>
+public interface IAssociateIndividualArgumentCommand<out TParameter, out TArgumentData>
     : ICommand
     where TParameter : IParameter
     where TArgumentData : IArgumentData
