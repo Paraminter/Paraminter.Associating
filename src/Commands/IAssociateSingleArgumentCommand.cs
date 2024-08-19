@@ -4,10 +4,10 @@ using Paraminter.Arguments.Models;
 using Paraminter.Cqs;
 using Paraminter.Parameters.Models;
 
-/// <summary>Represents a command to associate an argument with a parameter.</summary>
+/// <summary>Represents a command to associate a single argument with a parameter.</summary>
 /// <typeparam name="TParameter">The type representing the parameters.</typeparam>
 /// <typeparam name="TArgumentData">The type representing data about the arguments.</typeparam>
-public interface IAssociateIndividualArgumentCommand<out TParameter, out TArgumentData>
+public interface IAssociateSingleArgumentCommand<out TParameter, out TArgumentData>
     : ICommand
     where TParameter : IParameter
     where TArgumentData : IArgumentData
