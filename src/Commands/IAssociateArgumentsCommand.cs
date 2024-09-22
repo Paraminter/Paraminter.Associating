@@ -3,11 +3,11 @@
 using Paraminter.Cqs;
 using Paraminter.Models;
 
-/// <summary>Represents a command to associate all arguments with parameters.</summary>
+/// <summary>Represents a command to associate arguments with parameters.</summary>
 /// <typeparam name="TData">The type representing the data used to associate arguments with parameters.</typeparam>
-public interface IAssociateAllArgumentsCommand<out TData>
+public interface IAssociateArgumentsCommand<out TData>
     : ICommand
-    where TData : IAssociateAllArgumentsData
+    where TData : IAssociateArgumentsData
 {
     /// <summary>The data used to associate arguments with parameters.</summary>
     public abstract TData Data { get; }
