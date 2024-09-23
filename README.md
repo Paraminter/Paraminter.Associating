@@ -1,3 +1,3 @@
-# Paraminter
+# Paraminter.Associating
 
-Defines core `Paraminter` components.
+Defines `Paraminter` associating.
