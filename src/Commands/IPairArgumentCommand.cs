@@ -1,4 +1,4 @@
-﻿namespace Paraminter.Commands;
+﻿namespace Paraminter.Associating.Commands;
 
 using Paraminter.Arguments.Models;
 using Paraminter.Cqs;

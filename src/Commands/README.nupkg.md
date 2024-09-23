@@ -1,5 +1,5 @@
-# Paraminter.Commands
+# Paraminter.Associating.Commands
 
-Defines core `Paraminter` commands.
+Defines commands for `Paraminter` associating.
 
-See [GitHub](https://github.com/Paraminter/Paraminter) for more information.
+See [GitHub](https://github.com/Paraminter/Paraminter.Associating) for more information.
